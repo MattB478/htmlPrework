@@ -1,0 +1,15 @@
+p,
+li,
+h1 {
+  color: red;
+  width: 750px;
+  border: 10px solid black;
+}
+
+.withBorder {
+  border: 10px solid black;
+}
+
+#border {
+  border: 20px solid red;
+}
